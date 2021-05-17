@@ -51,6 +51,10 @@ Using data on GDP and public availablity on Imports/Exports on which tariffs wer
 * Examine China's Claim
 	> Claim: "Tariffs are effecting US economy more than its own."
 
+### Reasoning for Key Points ###
+
+Through research surrounding reports about the tariffs, I found that US automotive, technological, and agricultural industries were impacted the most in the US. Also, China's most affected industries were technological and business goods. Seeing how GDP is a good measure to see where a economy can be measure, this was an easy decision to make in the comparison of the two countries. Looking to examine China's claim was more so a way of deciding who was winning the trade war more. 
+
 ## Analysis ##
 
 ### US Agriculture Exports ###
@@ -71,7 +75,7 @@ Getting the data from the United States Department of Agriculutre, a reliable go
 
 ![domesProdSales](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Prod_DomSale_Car.png)
 
-The data is from the Bureau of Trasportation, and contains total production (for passenger cars and commercial vehicles), and total domestic sales (also for passenger cars and commercial vehicles)
+The data is from the Bureau of Trasportation, and contains total production (for passenger cars and commercial vehicles), and total domestic sales (also for passenger cars and commercial vehicles). This dataset spans from 1960 to 2019, but from 1960 to 1990 they only recorded values every 5 years. The visual on the top is a double bar chart which shows the pattern throughout the whole time period, the second graphic depicts a more recent depiction. As you can see there is a clear negative spike around 2008 & 2009, this occured due to great recession. If we compared the great recession to the tariffs in 2018, we can see that the tariffs had little to no impact on domestic sales and production. This is evidence against the claim that China made towards the US. We can see that the lack of imports from China did not have a huge impact towards the domestic US automotive industry.  
 
 ### US & China Vehicle Total Market Volumes ###
 
@@ -79,6 +83,7 @@ The data is from the Bureau of Trasportation, and contains total production (for
 
 ![carGrowthComp](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_Growth_Comp.png)
 
+Not being satisified with just domestic US automotive data, I wanted to gather car sales data from both countires. These datasets were gathered from car sales base. Data from China in these datasets did not start until 2006 and US data was started in 1970, and both data sets end at 2020. In the first graphic, we can see the total number of vehicles sold from 2008 to 2020. Without the re
 
 ### US Tech. & Business Imports from China ###
 
