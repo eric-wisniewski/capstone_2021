@@ -57,11 +57,19 @@ Using data on GDP and public availablity on Imports/Exports on which tariffs wer
 
 ![Agriculture](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Exp_Agr_Comp.png)
 
-Getting the data from the United States Department of Agriculutre, a reliable government agency, I wanted to observe the trends two years prior, and two years after the tariffs began. I decided to cut down the main exports from US to China to three main crops. Soybeans, Wheat, and Cotton. To really observe how effected the farmers were, I compared the total exports of the crops in the world to only China. The only missing values are exports of wheat to China in 2018 & 2019 due to China being top 10 in exports.
+Getting the data from the United States Department of Agriculutre, a reliable government agency, I wanted to observe the trends two years prior, and two years after the tariffs began. I decided to cut down the main exports from US to China to three main crops. Soybeans, Wheat, and Cotton. To really observe how affected the farmers were, I compared the total exports of the crops in the world to only China. The only missing values are exports of wheat to China in 2018 & 2019 due to China being top 10 in exports for these goods. 
+
+* Soybeans
+	> Within the graphic there is a clear decline from 2016 to 2018, with 2018 being the lowest year. Even though the exports to China dropped drastically, the US was still able to find many other suitors for this good, but it still did take a hit. Dropping from 57 million metric tons to 46, the farmers were affected, but still maintained a foothold and were able to recover in the following years. Overall the US economy did not take a massive blow.
+
+* Wheat & Cotton
+	> Although wheat exports are much more prevalent then cotton, exports to China for either good are not very high. The wheat crop may have been affected more, dropping from 27 miilion metric tons to 22, the following it year it leveled out around 26. Cotton saw a small but steady increase throught the whole time.
 
 ### US Vehicle Domestic Production & Sales ###
 
 ![domesProdSales](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Prod_DomSale_Car.png)
+
+The data is from the Bureau of Trasportation, and contains total production (for passenger cars and commercial vehicles), and total domestic sales (also for passenger cars and commercial vehicles)
 
 ### US & China Vehicle Total Market Volumes ###
 
