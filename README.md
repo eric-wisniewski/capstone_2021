@@ -57,6 +57,8 @@ Through research surrounding reports about the tariffs, I found that US automoti
 
 ## Milestone Tracker ##
 
+![milestone](https://github.com/eric-wisniewski/capstone_2021/blob/main/Files/milestone%20tracker.png)
+
 ## Analysis ##
 
 ### US Agriculture Exports ###
@@ -93,7 +95,7 @@ Not being satisified with just domestic US automotive data, I wanted to gather c
 
 ![techImport](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Tech_11-20.png)
 
-The examination of this data was to see if China was truly hurt by the tariffs. Using United States Census Bureau data on imports from China, a dataset which contains almost every product, I narrowed down my selection to 6 products. The list of products include Computers, Computer accsesories, telecommunications equipment, Business mahcines and equipment, Cell phones and other household goods, and Televisions and video equipment. The data ranges from 2011 to 2020. From the graphic we can conclude since 2018 telecommunications equipment and computer accessories 
+The examination of this data was to see if China was truly hurt by the tariffs. Using United States Census Bureau data on imports from China, a dataset which contains almost every product, I narrowed down my selection to 6 products. The list of products include Computers, Computer accsesories, telecommunications equipment, Business mahcines and equipment, Cell phones and other household goods, and Televisions and video equipment. The data ranges from 2011 to 2020. From the graphic we can conclude since 2018 all but computers took hits and are on the decline. This proof goes against their own claim of the tariffs affecting the US more than to itself, but seeing how China is solely reliant on these goods, we can not assume how great an effect it had on its economy, but there still was a negative effect. 
 
 ### US Imports vs. Exports from China (Totals) ###
 
@@ -101,7 +103,23 @@ The examination of this data was to see if China was truly hurt by the tariffs. 
 
 ![1821](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_IM_EX_18-21.png)
 
+These two graphics split a larger possible graphic into two pieces, one piece ranging form January 2016 to June 2018 to July 2018 to January 2021. These are total values of each month from each year on imports and exports. The difference between the first chart and the second chart (i.e. 2016-2018 & 2018-2021) are not surprising. The first chart shows more trade going on than the second. After the tariffs started in June 2018, the levels dropped to a low in May 2020 and only started picking up after. The differences between Imports and Exports remained at their lowest points between the time of the tariffs and the signing of the Phase 1 deal where sides eased tensions a little bit. This point also goes against China's claim. 
+
 ### US vs China GDP ###
 
 ![GDP](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_GDP_10-21.png)
 
+Looking at GDPs along does not indicate much of a change in eithers economy. They are similar in their trend line with US still having an advantage over China. Once again we see China's claim not holding any weight.
+
+## Forecasting(Not Completed) ##
+
+## Summary(Partial Completetion) ##
+
+* Automotive & Agriculture Industries (US)
+	> Looking over all three US industries, I found that the Agricultural Industry had a small affect from the tariffs, but nothing too worrying. China had over half of the imports in 2016 & 2017 in Soybeans, most popular crop, so for the imports to drop a small amount does not mean the affect of the tariffs was terrible for the farmers, yet still had an affect. The domestic US industry was not affected much at all, but total sales of vehicles was affected for both countries negatively. Another trend I found, which was more concerning than the tariffs, was how much more dominant China's sales of vehicles is over the US. This raises other questions on how the US can compete with China in the worldwide automotive industry longterm. 
+
+* Tech & Business Industries (China)
+	> The tariffs that were placed have had an effect on the most popular tech and busisness goods from China. Since 2018 all products except computers (from earlier example) have been on the decline. To what degree this is affecting China is unknown to due unreliability of Chinese government sources, but for the top 5 products to be declining in exports must hurt the nation.
+
+* China's Claim: Did US tariffs hurt US more than China?
+	> From most singular observations I could see, at least in my research, the US economy was not greatly affected. If we compare it to China's only hurty industry we can partially claim that China must have been hurt the same or more by these tariffs, but with more research and data needed to come to a conclusive answer we can not statistcally make a claim that they are incorrect. In order for China to be correct, not much more than the US could have been affected.    
