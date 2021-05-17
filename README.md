@@ -49,12 +49,26 @@ Using data on GDP and public availablity on Imports/Exports on which tariffs wer
 
 ### US Vehicle Domestic Production & Sales ###
 
+![domesProdSales](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Prod_DomSale_Car.png)
+
 ### US & China Vehicle Total Market Volumes ###
+
+![carComp](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_Comp.png)
+
+![carGrowthComp](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_Growth_Comp.png)
+
 
 ### US Tech. & Business Imports from China ###
 
+![techImport](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Tech_11-20.png)
+
 ### US Imports vs. Exports from China (Totals) ###
+
+![1618](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_IM_EX_16-18.png)
+
+![1821](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_IM_EX_18-21.png)
 
 ### US vs China GDP ###
 
+![GDP](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_GDP_10-21.png)
 
