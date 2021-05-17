@@ -81,6 +81,8 @@ The data is from the Bureau of Trasportation, and contains total production (for
 
 ![carComp](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_Comp.png)
 
+![totCar](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_tot.png)
+
 ![carGrowthComp](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_Growth_Comp.png)
 
 Not being satisified with just domestic US automotive data, I wanted to gather car sales data from both countires. These datasets were gathered from car sales base. Data from China in these datasets did not start until 2006 and US data was started in 1970, and both data sets end at 2020. In the first graphic, we can see the total number of vehicles sold from 2008 to 2020. Without the re
