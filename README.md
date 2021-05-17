@@ -67,6 +67,8 @@ Getting the data from the United States Department of Agriculutre, a reliable go
 
 ### US Vehicle Domestic Production & Sales ###
 
+![tot](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/Prod_DomSal_tot.png)
+
 ![domesProdSales](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Prod_DomSale_Car.png)
 
 The data is from the Bureau of Trasportation, and contains total production (for passenger cars and commercial vehicles), and total domestic sales (also for passenger cars and commercial vehicles)
