@@ -38,4 +38,23 @@ Links for all the datasets in the folder /files are located, as well as notes on
 * [China GDP:](https://tradingeconomics.com/china/gdp) Measured in Billions of USD
 * [US & China Import Export Difference:](https://www.census.gov/foreign-trade/balance/c5700.html#2021) Measured in Millions of USD
 
+## Injuiry Question ##
+Using data on GDP and public availablity on Imports/Exports on which tariffs were put on, measure effectiveness for both nations and conclude on overall trends which the data implies. Predict short-term and long-term affects if tariffs are still in place as they were when they began.
+
+## Analysis ##
+
+### US Agriculture Exports ###
+
+![Agriculture](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Exp_Agr_Comp.png)
+
+### US Vehicle Domestic Production & Sales ###
+
+### US & China Vehicle Total Market Volumes ###
+
+### US Tech. & Business Imports from China ###
+
+### US Imports vs. Exports from China (Totals) ###
+
+### US vs China GDP ###
+
 
