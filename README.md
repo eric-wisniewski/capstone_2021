@@ -41,11 +41,23 @@ Links for all the datasets in the folder /files are located, as well as notes on
 ## Injuiry Question ##
 Using data on GDP and public availablity on Imports/Exports on which tariffs were put on, measure effectiveness for both nations and conclude on overall trends which the data implies. Predict short-term and long-term affects if tariffs are still in place as they were when they began.
 
+### Key Points of Examination ###
+* Differences in US Automotive, Tech, and Agriculture Industries
+
+* Differences in Tech & Business Imports from China
+
+* GDP Examination
+
+* Examine China's Claim
+	> Claim: "Tariffs are effecting US economy more than its own."
+
 ## Analysis ##
 
 ### US Agriculture Exports ###
 
 ![Agriculture](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Exp_Agr_Comp.png)
+
+Getting the data from the United States Department of Agriculutre, a reliable government agency, I wanted to observe the trends two years prior, and two years after the tariffs began. I decided to cut down the main exports from US to China to three main crops. Soybeans, Wheat, and Cotton. To really observe how effected the farmers were, I compared the total exports of the crops in the world to only China. The only missing values are exports of wheat to China in 2018 & 2019 due to China being top 10 in exports.
 
 ### US Vehicle Domestic Production & Sales ###
 
