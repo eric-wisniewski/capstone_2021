@@ -3,7 +3,7 @@ This repository will contain all of the necessary files which the project requir
 
 ## Data ##
 
-To see all the dat which was operated upon is within the source located [here.](https://github.com/eric-wisniewski/capstone_2021/tree/main/Files) The folder contains both .xlsx and .csv files, this was done in order to operate on them within R for statistical analysis and forecasting methods. 
+To see all the dat which was operated upon is within the source located [here.](https://github.com/eric-wisniewski/capstone_2021/tree/main/Files) The folder contains both .xlsx and .csv files, this was done in order to operate on them within R for statistical analysis and forecasting methods. Most sources are from US government agencies, due to many questioning the reliability of sources from the Chinese Government.
 
 ### Data Manipulation ###
 
@@ -55,6 +55,8 @@ Using data on GDP and public availablity on Imports/Exports on which tariffs wer
 
 Through research surrounding reports about the tariffs, I found that US automotive, technological, and agricultural industries were impacted the most in the US. Also, China's most affected industries were technological and business goods. Seeing how GDP is a good measure to see where a economy can be measure, this was an easy decision to make in the comparison of the two countries. Looking to examine China's claim was more so a way of deciding who was winning the trade war more. 
 
+## Milestone Tracker ##
+
 ## Analysis ##
 
 ### US Agriculture Exports ###
@@ -85,11 +87,13 @@ The data is from the Bureau of Trasportation, and contains total production (for
 
 ![carGrowthComp](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_CH_Car_Growth_Comp.png)
 
-Not being satisified with just domestic US automotive data, I wanted to gather car sales data from both countires. These datasets were gathered from car sales base. Data from China in these datasets did not start until 2006 and US data was started in 1970, and both data sets end at 2020. In the first graphic, we can see the total number of vehicles sold from 2008 to 2020. Without the re
+Not being satisified with just domestic US automotive data, I wanted to gather car sales data from both countires. These datasets were gathered from car sales base. Data from China in these datasets did not start until 2006 and US data was started in 1970, and both data sets end at 2020. In the first graphic, we can see the total number of vehicles sold from 2008 to 2020. The second figure and are depicted in opposite order, date wise. The second figure is the complete picture from both datasets to see a better overall trend. The third chart is a car sales growth comparison from 2008 to 2020. Since 2009, China's car sales have been greater and most likely will continue beyond this point with the same trend. Since 2018, both the US and China are on the decline with car sales, showing the impact on the overall automotive industry for both countries. Seeing China's sharp rise in sales could cause anxiety for US automotive industries with how quickly they had overtaken the US. This could cause future issues for the future in American automotive businesses if this trend contiues. However, the proof saying the tariffs are hurting America in this case are not supported, seeing both countires faulter after the introduction of said tariffs. 
 
 ### US Tech. & Business Imports from China ###
 
 ![techImport](https://github.com/eric-wisniewski/capstone_2021/blob/main/Graphs/US_Tech_11-20.png)
+
+The examination of this data was to see if China was truly hurt by the tariffs. Using United States Census Bureau data on imports from China, a dataset which contains almost every product, I narrowed down my selection to 6 products. The list of products include Computers, Computer accsesories, telecommunications equipment, Business mahcines and equipment, Cell phones and other household goods, and Televisions and video equipment. The data ranges from 2011 to 2020. From the graphic we can conclude since 2018 telecommunications equipment and computer accessories 
 
 ### US Imports vs. Exports from China (Totals) ###
 
